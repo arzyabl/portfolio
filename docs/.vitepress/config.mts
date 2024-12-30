@@ -5,7 +5,7 @@ export default defineConfig({
   title: "Arzy's Portfolio",
   description: "portfolio",
   // TODO: add your base here; this should be your repo name!
-  base: "/portfolio/",
+  base: "/portfolio-ablaji/",
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
