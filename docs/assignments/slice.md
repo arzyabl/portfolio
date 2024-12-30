@@ -14,10 +14,6 @@ To deepen the immersive experience, the joystick mimics the satisfying motion of
 
 Video showcasing the game: 
 
-<video controls width="600">
-  <source src="./videos/interaction.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
 
 ## Design Process
 
