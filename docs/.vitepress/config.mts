@@ -3,25 +3,25 @@ import { defineConfig } from "vitepress";
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
   title: "Arzy's Portfolio",
-  description: "6.1040 Fall 2024",
+  description: "portfolio",
   // TODO: add your base here; this should be your repo name!
-  base: "/portfolio-arzy/",
+  base: "/portfolio/",
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
       { text: "Home", link: "/" },
-      { text: "Blogs", link: "/blogs" },
-      { text: "Assignments", link: "/assignments"},
+      { text: "Research", link: "/research" },
+      { text: "Projects", link: "/assignments"},
       { text: "About me", link: "about.md"},
     ],
 
     sidebar: [
       {
-        text: "Blogs",
-        link: "/blogs",
+        text: "Research",
+        link: "/research",
       },
       {
-        text: "Assignments",
+        text: "Projects",
         link: "/assignments",
       }
     ],

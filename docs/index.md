@@ -5,23 +5,19 @@ layout: home
 hero:
   name: "Arzy Abliadzhyieva"
   text: "Interdisciplinary Developer"
-  tagline: "a 6.1040 production..."
   actions:
     - theme: brand
       text: Template Repository
       link: "https://github.com/61040-fa24/vitepress-template"
-    - theme: alt
-      text: Example Site
-      link: "https://61040-fa24.github.io/portfolio-dhua/"
 
 features:
-  - title: Blogs
-    details: Some cool blogs you'll write this semester!
-    link: /blogs
-  - title: Assignments
-    details: All of your assignments will be posted on your portfolio.
+  - title: Research
+    details: Some cool research I am doing at MIT!
+    link: /research
+  - title: Projects
+    details: Independant as well as team projects I was part of.
     link: assignments.md
   - title: About Me
-    details: You'll implement a small bio about yourself on here!
+    details: Read more about me including how to contact me
     link: about.md
 ---
