@@ -66,7 +66,7 @@ Changes:
 
 #### Final result
 ![tech drawing](./images/fairytale_cauldron/techdrawing.png) 
-![cauldron](./images/fairytale_cauldron/cauldron2.JPG) 
+here should be jpg image
 
 ### Code Development
 #### Prompt Engineering
