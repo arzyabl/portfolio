@@ -3,7 +3,7 @@ title: Fairytale Cauldron
 layout: doc
 ---
 # Fairytale Cauldron
-Feature by [MIT Morningside Academy for Design](https://www.instagram.com/p/DD4UAR2M043/?img_index=1)
+Featured by [MIT Morningside Academy for Design](https://www.instagram.com/p/DD4UAR2M043/?img_index=1)
 
 
 ## Project Description

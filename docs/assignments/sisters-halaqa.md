@@ -11,7 +11,7 @@ Our app features tight-knit circles, where users can join based on their prefere
 More than just an app, Sisters Halaqa is a safe haven for Muslim women, offering a space to learn, connect, and thrive—all from the comfort of your home.
 
 # Development Process
-## **Needfinding**
+## Needfinding
 
 How do I design an app that facilitates a safe and empowering environment for Muslim women to gather to gain beneficial knowledge and socialize? How to cater it to stay-at-home women?
 
@@ -211,7 +211,7 @@ Previous designs lacked confirmation prompts for critical actions (e.g., leaving
 
 - **Information Scent:** To improve discoverability, the Browse view’s search bar will include autocomplete and dropdown options for circle categories, tags, and levels.
 
-
+## User Testing
 
 
 
